@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Carpentry.unity
+- path: Assets/Scenes/CarpentryScene/CarpentryCut.unity
   isLoaded: 1
   isActive: 1

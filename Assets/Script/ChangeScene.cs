@@ -10,8 +10,13 @@ public class ChangeScene : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
-    public void changeToCarpentry()
+    public void changeToCarpentryTrain()
     {
         SceneManager.LoadScene(2);
+    }
+
+    public void changeToCarpentryCut()
+    {
+        SceneManager.LoadScene(3);
     }
 }

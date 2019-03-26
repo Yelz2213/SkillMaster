@@ -61,8 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\ChangeScene.cs" />
+    <Compile Include="Assets\Script\Cutgame.cs" />
     <Compile Include="Assets\Script\Cutter.cs" />
+    <Compile Include="Assets\Script\Destory.cs" />
     <Compile Include="Assets\Script\Plank.cs" />
+    <Compile Include="Assets\Script\Timer.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/user/Downloads/SkillMaster-20190316T223145Z-001/SkillMaster/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
